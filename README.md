@@ -136,17 +136,17 @@
 <!-- repo 1 -->
   <a align="right" href="https://github.com/UmarRasheed007/Axum-Rust-Starter" title="Axum Starter Template">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=UmarRasheed007&repo=Axum-Rust-Starter&theme=rust&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=UmarRasheed007&repo=Axum-Rust-Starter&theme=react&border_color=61dafb&border_radius=10" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=UmarRasheed007&repo=Axum-Rust-Starter&theme=graywhite&border_radius=10" />
       <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=UmarRasheed007&repo=Axum-Rust-Starter&theme=graywhite&border_radius=10" alt="UmarRasheed007's repository stats - 3D portfolio" />
     </picture>
   </a>
 <!-- repo 2 -->
-  <a align="left" href="https://github.com/UmarRasheed007/mern-admin" title="MERN Admin Dashboard">
+  <a align="left" href="https://github.com/umee007/Automita" title="Automatic TimeTable Generation">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=UmarRasheed007&repo=mern-admin&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=UmarRasheed007&repo=mern-admin&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=UmarRasheed007&repo=mern-admin&theme=graywhite&border_radius=10" alt="UmarRasheed007's repository stats - MERN Admin Dashboard" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=umee007&repo=Automita&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=umee007&repo=Automita&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umee007&repo=Automita&theme=graywhite&border_radius=10" alt="UmarRasheed007's repository stats - MERN Admin Dashboard" />
     </picture>
   </a>
 </div>
@@ -154,19 +154,19 @@
 <!-- second row -->
 <div width="100%" align="center">
 <!-- repo 3 -->
-  <a align="left" href="https://github.com/UmarRasheed007/modern-portfolio" title="Modern Portfolio">
+  <a align="left" href="https://github.com/umee007/Issue-Management-System" title="Issue Management System">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=UmarRasheed007&repo=modern-portfolio&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=UmarRasheed007&repo=modern-portfolio&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=UmarRasheed007&repo=modern-portfolio&theme=graywhite&border_radius=10" alt="UmarRasheed007's repository stats - Modern Portfolio" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=umee007&repo=Issue-Management-System&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=umee007&repo=Issue-Management-System&theme=graywhite&border_radius=10" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umee007&repo=Issue-Management-System&theme=graywhite&border_radius=10" alt="UmarRasheed007's repository stats - Modern Portfolio" />
     </picture>
   </a>
 <!-- repo 4 -->
-  <a align="right" href="https://github.com/UmarRasheed007/brainwave" title="Brainwave SaaS Landing Page">
+  <a align="right" href="https://github.com/umee007/Secure-Messaging-Web-App" title="Secure Messaging App">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=UmarRasheed007&repo=brainwave&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=UmarRasheed007&repo=brainwave&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=UmarRasheed007&repo=brainwave&theme=graywhite&border_radius=10" alt="UmarRasheed007's repository stats - Brainwave SaaS Landing Page" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=umee007&repo=Secure-Messaging-Web-App&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=umee007&repo=Secure-Messaging-Web-App&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=umee007&repo=Secure-Messaging-Web-App&theme=graywhite&border_radius=10" alt="UmarRasheed007's repository stats - Brainwave SaaS Landing Page" />
     </picture>
   </a>
 </div>
