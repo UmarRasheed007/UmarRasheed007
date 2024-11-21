@@ -9,7 +9,8 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Umar Rasheed, a passionate Software Engineer 💻, dedicated Learner 📚, and gaming enthusiast 🎮 from Pakistan 🇵🇰.
+  Hi, I'm Umar Rasheed, a passionate Software Engineer 💻, dedicated Learner 📚, and gaming enthusiast 🎮 from Pakistan 🇵🇰. </p>
+  <p align="left" style="text-align: justify;">
   <br />
   <br />
   🎓 Currently pursuing a Master of Science in Data Science at the University of Hertfordshire, England.
