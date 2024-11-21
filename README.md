@@ -177,5 +177,10 @@
 
 <!-- show more repos -->
 <h4 align="center">
-  <a href="https://github.com/UmarRasheed007?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/UmarRasheed007?tab=repositories" title="Show Repositories (New Profile)">🔎 Show More 🔍</a>
+</h4>
+
+<!-- show more repos -->
+<h4 align="center">
+  <a href="https://github.com/umee007?tab=repositories" title="Show Repositories (Old Profile)">🔎 Show More 🔍</a>
 </h4>
