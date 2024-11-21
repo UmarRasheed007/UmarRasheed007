@@ -3,35 +3,34 @@
 
 <!-- introduction -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Sanidhya!;&center=true&font=Righteous&size=35">
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Umar!;&center=true&font=Righteous&size=35">
 </h1>
 
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Sanidhya Kumar Verma, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
+  Hi, I'm Umar Rasheed, a passionate Software Engineer 💻, dedicated Learner 📚, and gaming enthusiast 🎮 from Pakistan 🇵🇰.
   <br />
   <br />
-  🎓 Currently a high school student.
+  🎓 Currently pursuing a Master of Science in Data Science at the University of Hertfordshire, England.
   <br />
-  💻 I love to learn new technologies and frameworks.
+  🎓 A recent graduate in Software Engineering from Air University.
   <br />
-  🧑‍💼 I’m currently a freelancer working as a Next.js developer.
+  💻 I specialize in full-stack development with expertise in the MERN stack, data science, and building scalable solutions.
+  <br />
+  🧑‍💼 Currently, I’m working as a Nest.js developer and continuously enhancing my skills in cutting-edge technologies.
+  <br />
+  🚀 I'm driven by a commitment to innovation and creating impactful software solutions.
   <br />
 </p>
 
 <!-- social handles -->
 <div align="center"> 
 <!-- youtube -->
-  <a href="https://www.youtube.com/@OPGAMER." target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <!-- twitter -->
-  <a href="https://twitter.com/technicalshubam" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
   <!-- gmail -->
-  <a href="mailto:sanidhya.verma12345@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:umar.rasheed.ur007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!-- linkedin -->
-  <a href="https://www.linkedin.com/in/sanidhyy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/umar-rasheed-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <hr />
