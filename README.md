@@ -134,11 +134,11 @@
 <!-- first row -->
 <div width="100%" align="center">
 <!-- repo 1 -->
-  <a align="right" href="https://github.com/UmarRasheed007/3d-portfolio" title="3D Portfolio">
+  <a align="right" href="https://github.com/UmarRasheed007/Axum-Rust-Starter" title="Axum Starter Template">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=UmarRasheed007&repo=3d-portfolio&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=UmarRasheed007&repo=3d-portfolio&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=UmarRasheed007&repo=3d-portfolio&theme=graywhite&border_radius=10" alt="UmarRasheed007's repository stats - 3D portfolio" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=UmarRasheed007&repo=Axum-Rust-Starter&theme=rust&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=UmarRasheed007&repo=Axum-Rust-Starter&theme=graywhite&border_radius=10" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=UmarRasheed007&repo=Axum-Rust-Starter&theme=graywhite&border_radius=10" alt="UmarRasheed007's repository stats - 3D portfolio" />
     </picture>
   </a>
 <!-- repo 2 -->
