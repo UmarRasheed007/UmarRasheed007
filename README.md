@@ -40,33 +40,20 @@
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
-      <!-- Front-End Skills -->
+      <!-- first row -->
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,flutter,dart&theme=dark" />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,flutter,dart&theme=light" />
-          <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,flutter,dart&theme=light" alt="Front-End Skills" />
-      </picture>
-      <br />
-      <!-- Back-End and Tools -->
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,nestjs,rust,c++,java,c#,swagger&theme=dark" />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs,express,nestjs,rust,c++,java,c#,swagger&theme=light" />
-          <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,rust,c++,java,c#,swagger&theme=light" alt="Back-End Skills" />
-      </picture>
-      <br />
-      <!-- Databases and Cloud -->
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,docker,kubernetes,vercel,netlify&theme=dark" />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,docker,kubernetes,vercel,netlify&theme=light" />
-          <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,docker,kubernetes,vercel,netlify&theme=light" alt="Databases and Cloud" />
-      </picture>
-      <br />
-      <!-- Tools and Concepts -->
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,trello,jira,heroku,prisma&theme=dark" />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,trello,jira,heroku,prisma&theme=light" />
-          <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,trello,jira,heroku,prisma&theme=light" alt="Tools and Concepts" />
-      </picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=dark" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" />
+          <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" alt="skills - 1" />
+        </picture>
+          <br />
+          <!-- second row -->
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" />
+            <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" alt="skills - 2" />
+        </picture>
+
   </a>
 </p>
 <br />
