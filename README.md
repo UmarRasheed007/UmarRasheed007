@@ -13,11 +13,30 @@
   <p align="left" style="text-align: justify;">
   <br />
   <br />
-  🎓 Currently pursuing a Master of Science in Data Science at the University of Hertfordshire, England.
+  <h1>🎓 Pursuing MSc in Data Science | University of Hertfordshire, UK.</h1>
   <br />
-  🎓 A recent graduate in Software Engineering from Air University.
+  <h1>💻 Software Engineering Graduate | Air University.</h1>
   <br />
-  💻 I specialize in full-stack development with expertise in the MERN stack, data science, and building scalable solutions.
+  <div>
+  <h2>🚀 Full-Stack Developer</h2>
+  <ul>
+    <li>
+      <strong>Front-End Proficiency:</strong> Expert in 
+      <span>HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS, Flutter, and Dart</span> 
+      for crafting responsive and user-friendly interfaces.
+    </li>
+    <li>
+      <strong>Back-End Expertise:</strong> Skilled in 
+      <span>Node.js, Express.js, Nest.js, C++, Java, C#, Rust</span>, and RESTful APIs, 
+      ensuring robust and scalable server-side solutions.
+    </li>
+    <li>
+      <strong>Database Management:</strong> Mastery of 
+      <span>MongoDB, MySQL, PostgreSQL</span>, optimizing data handling for performance and reliability.
+    </li>
+  </ul>
+</div>
+
   <br />
   🧑‍💼 Currently, I’m working as a Nest.js developer and continuously enhancing my skills in cutting-edge technologies.
   <br />
