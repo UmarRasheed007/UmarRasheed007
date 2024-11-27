@@ -90,36 +90,30 @@
 - **Pursuing MSc in Data Science | University of Hertfordshire, UK**
 - **Software Engineering Graduate | Air University**
 
----
 
 ### 🚀 Full-Stack Developer
 - **Front-End Proficiency:** Expert in **HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS, Flutter, Dart** for crafting responsive and user-friendly interfaces.
 - **Back-End Expertise:** Skilled in **Node.js, Express.js, Nest.js, C++, Java, C#, Rust**, and RESTful APIs, ensuring robust and scalable server-side solutions.
 - **Database Management:** Mastery of **MongoDB, MySQL, PostgreSQL**, optimizing data handling for performance and reliability.
 
----
-
 ### 🧑‍💼 Cloud & DevOps Specialist
 - **Cloud Platforms:** Hands-on experience with **AWS (Lambda, ECS, EC2, S3), Netlify, Vercel**, and serverless architectures.
 - **DevOps Tools:** Proficient in **CI/CD pipelines, Docker, Kubernetes**, automating deployments and enhancing team productivity.
 - **Workflow Automation:** Expertise in **GitHub workflows, Husky, Linting**, ensuring efficient version control and code quality.
 
----
 
 ### 🌟 Innovator & Problem Solver
 - **Core Concepts:** Deep understanding of **SDLC, Agile Methodology, OOP, DSA, API optimization**, and scalable software architecture.
 - **Testing & Automation:** Adept in **unit testing, API testing**, and automation frameworks for quality assurance.
 - **Soft Skills:** Exceptional in **collaboration, adaptive learning, effective communication**, and handling dynamic challenges.
 
----
 
 ### 💻 Passionate Data Science Enthusiast
 - **Data Handling:** Skilled in data analysis, processing, and visualization, leveraging tools to drive insights.
-- **Scalable Solutions:** Designing and deploying innovative software solutions that impact businesses and users.
-
----
+- **Scalable Solutions:** Designing and deploying innovative software solutions that impact businesses and users.44
 
 
+</br></br>
 
 
 <!-- social handles -->
