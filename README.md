@@ -10,16 +10,9 @@
 <!-- about me -->
 <p align="center">
   Hi, I'm Umar Rasheed, a passionate Software Engineer 💻, dedicated Learner 📚, and gaming enthusiast 🎮 from Pakistan 🇵🇰. 
-  <div style="background: #eef2f3; padding: 10px; border-radius: 8px; margin-bottom: 50px; margin-top:15px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4 style="color: #2c3e50; font-size: 20px; font-weight: bold; margin: 5px 0;">
-      🎓 Pursuing MSc in Data Science | University of Hertfordshire, UK
-    </h4>
-    <h4 style="color: #2c3e50; font-size: 20px; font-weight: bold; margin: 5px 0;">
-      💻 Software Engineering Graduate | Air University
-    </h4>
-  </div>
+</p>
 
-<p align="left" style="text-align: justify; font-family: Arial, sans-serif; line-height: 1.4;">
+<!-- <p align="left" style="text-align: justify; font-family: Arial, sans-serif; line-height: 1.4;">
   <div style="background: #f9f9f9; padding: 10px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 20px;">
     <h3 style="color: #3498db; font-size: 20px; font-weight: bold;">🚀 Full-Stack Developer</h3>
     <ul style="list-style-type: disc; margin-left: 15px; padding-left: 10px;">
@@ -87,7 +80,44 @@
       </li>
     </ul>
   </div>
-</p>
+</p> -->
+
+
+
+---
+
+### 🎓 Education
+- **Pursuing MSc in Data Science | University of Hertfordshire, UK**
+- **Software Engineering Graduate | Air University**
+
+---
+
+### 🚀 Full-Stack Developer
+- **Front-End Proficiency:** Expert in **HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS, Flutter, Dart** for crafting responsive and user-friendly interfaces.
+- **Back-End Expertise:** Skilled in **Node.js, Express.js, Nest.js, C++, Java, C#, Rust**, and RESTful APIs, ensuring robust and scalable server-side solutions.
+- **Database Management:** Mastery of **MongoDB, MySQL, PostgreSQL**, optimizing data handling for performance and reliability.
+
+---
+
+### 🧑‍💼 Cloud & DevOps Specialist
+- **Cloud Platforms:** Hands-on experience with **AWS (Lambda, ECS, EC2, S3), Netlify, Vercel**, and serverless architectures.
+- **DevOps Tools:** Proficient in **CI/CD pipelines, Docker, Kubernetes**, automating deployments and enhancing team productivity.
+- **Workflow Automation:** Expertise in **GitHub workflows, Husky, Linting**, ensuring efficient version control and code quality.
+
+---
+
+### 🌟 Innovator & Problem Solver
+- **Core Concepts:** Deep understanding of **SDLC, Agile Methodology, OOP, DSA, API optimization**, and scalable software architecture.
+- **Testing & Automation:** Adept in **unit testing, API testing**, and automation frameworks for quality assurance.
+- **Soft Skills:** Exceptional in **collaboration, adaptive learning, effective communication**, and handling dynamic challenges.
+
+---
+
+### 💻 Passionate Data Science Enthusiast
+- **Data Handling:** Skilled in data analysis, processing, and visualization, leveraging tools to drive insights.
+- **Scalable Solutions:** Designing and deploying innovative software solutions that impact businesses and users.
+
+---
 
 
 
