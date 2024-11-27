@@ -9,13 +9,14 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Umar Rasheed, a passionate Software Engineer 💻, dedicated Learner 📚, and gaming enthusiast 🎮 from Pakistan 🇵🇰. </p>
-  <p align="left" style="text-align: justify;">
+  Hi, I'm Umar Rasheed, a passionate Software Engineer 💻, dedicated Learner 📚, and gaming enthusiast 🎮 from Pakistan 🇵🇰. 
+</p>
+  <!-- <p align="left" style="text-align: justify;">
   <br />
   <br />
-  <h3>🎓 Pursuing MSc in Data Science | University of Hertfordshire, UK.</h3>
+  <h5>🎓 Pursuing MSc in Data Science | University of Hertfordshire, UK.</h5>
   <br />
-  <h3>💻 Software Engineering Graduate | Air University.</h3>
+  <h5>💻 Software Engineering Graduate | Air University.</h5>
   <br />
   <div>
   <h3>🚀 Full-Stack Developer</h3>
@@ -42,7 +43,91 @@
   <br />
   🚀 I'm driven by a commitment to innovation and creating impactful software solutions.
   <br />
+</p> -->
+
+<p align="left" style="text-align: justify; font-family: Arial, sans-serif; line-height: 1.6;">
+  <br />
+  <h5 style="color: #2c3e50; font-size: 18px; font-weight: bold;">
+    🎓 Pursuing MSc in Data Science | University of Hertfordshire, UK.
+  </h5>
+  <h5 style="color: #2c3e50; font-size: 18px; font-weight: bold;">
+    💻 Software Engineering Graduate | Air University.
+  </h5>
+  <br />
+  
+  <div style="background: #f9f9f9; padding: 15px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="color: #3498db; font-size: 22px; font-weight: bold;">🚀 Full-Stack Developer</h3>
+    <ul style="list-style-type: disc; margin-left: 20px;">
+      <li>
+        <strong>Front-End Proficiency:</strong> Expert in 
+        <span style="color: #34495e;">HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS, Flutter, and Dart</span> 
+        for crafting responsive and user-friendly interfaces.
+      </li>
+      <li>
+        <strong>Back-End Expertise:</strong> Skilled in 
+        <span style="color: #34495e;">Node.js, Express.js, Nest.js, C++, Java, C#, Rust</span>, and RESTful APIs, 
+        ensuring robust and scalable server-side solutions.
+      </li>
+      <li>
+        <strong>Database Management:</strong> Mastery of 
+        <span style="color: #34495e;">MongoDB, MySQL, PostgreSQL</span>, optimizing data handling for performance and reliability.
+      </li>
+    </ul>
+  </div>
+
+  <br />
+  <div style="background: #f9f9f9; padding: 15px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin-top: 20px;">
+    <h3 style="color: #3498db; font-size: 22px; font-weight: bold;">🧑‍💼 Cloud & DevOps Specialist</h3>
+    <ul style="list-style-type: disc; margin-left: 20px;">
+      <li>
+        <strong>Cloud Platforms:</strong> Hands-on experience with 
+        <span style="color: #34495e;">AWS (Lambda, ECS, EC2, S3), Netlify, Vercel</span>, and serverless architectures.
+      </li>
+      <li>
+        <strong>DevOps Tools:</strong> Proficient in 
+        <span style="color: #34495e;">CI/CD pipelines, Docker, Kubernetes</span>, automating deployments and enhancing team productivity.
+      </li>
+      <li>
+        <strong>Workflow Automation:</strong> Expertise in 
+        <span style="color: #34495e;">GitHub workflows, Husky, Linting</span>, ensuring efficient version control and code quality.
+      </li>
+    </ul>
+  </div>
+
+  <br />
+  <div style="background: #f9f9f9; padding: 15px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin-top: 20px;">
+    <h3 style="color: #3498db; font-size: 22px; font-weight: bold;">🌟 Innovator & Problem Solver</h3>
+    <ul style="list-style-type: disc; margin-left: 20px;">
+      <li>
+        <strong>Core Concepts:</strong> Deep understanding of 
+        <span style="color: #34495e;">SDLC, Agile Methodology, OOP, DSA, API optimization</span>, and scalable software architecture.
+      </li>
+      <li>
+        <strong>Testing & Automation:</strong> Adept in 
+        <span style="color: #34495e;">unit testing, API testing</span>, and automation frameworks for quality assurance.
+      </li>
+      <li>
+        <strong>Soft Skills:</strong> Exceptional in 
+        <span style="color: #34495e;">collaboration, adaptive learning, effective communication</span>, and handling dynamic challenges.
+      </li>
+    </ul>
+  </div>
+
+  <br />
+  <div style="background: #f9f9f9; padding: 15px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin-top: 20px;">
+    <h3 style="color: #3498db; font-size: 22px; font-weight: bold;">💻 Passionate Data Science Enthusiast</h3>
+    <ul style="list-style-type: disc; margin-left: 20px;">
+      <li>
+        <strong>Data Handling:</strong> Skilled in data analysis, processing, and visualization, leveraging tools to drive insights.
+      </li>
+      <li>
+        <strong>Scalable Solutions:</strong> Designing and deploying innovative software solutions that impact businesses and users.
+      </li>
+    </ul>
+  </div>
 </p>
+
+
 
 <!-- social handles -->
 <div align="center"> 
