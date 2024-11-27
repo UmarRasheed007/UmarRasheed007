@@ -45,19 +45,19 @@
   <br />
 </p> -->
 
-<p align="left" style="text-align: justify; font-family: Arial, sans-serif; line-height: 1.6;">
-  <br />
-  <h5 style="color: #2c3e50; font-size: 18px; font-weight: bold;">
-    🎓 Pursuing MSc in Data Science | University of Hertfordshire, UK.
-  </h5>
-  <h5 style="color: #2c3e50; font-size: 18px; font-weight: bold;">
-    💻 Software Engineering Graduate | Air University.
-  </h5>
-  <br />
-  
-  <div style="background: #f9f9f9; padding: 15px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="color: #3498db; font-size: 22px; font-weight: bold;">🚀 Full-Stack Developer</h3>
-    <ul style="list-style-type: disc; margin-left: 20px;">
+<p align="left" style="text-align: justify; font-family: Arial, sans-serif; line-height: 1.4;">
+  <div style="background: #eef2f3; padding: 10px; border-radius: 8px; margin-bottom: 15px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <h4 style="color: #2c3e50; font-size: 20px; font-weight: bold; margin: 5px 0;">
+      🎓 Pursuing MSc in Data Science | University of Hertfordshire, UK
+    </h4>
+    <h4 style="color: #2c3e50; font-size: 20px; font-weight: bold; margin: 5px 0;">
+      💻 Software Engineering Graduate | Air University
+    </h4>
+  </div>
+
+  <div style="background: #f9f9f9; padding: 10px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 15px;">
+    <h3 style="color: #3498db; font-size: 20px; font-weight: bold;">🚀 Full-Stack Developer</h3>
+    <ul style="list-style-type: disc; margin-left: 15px; padding-left: 10px;">
       <li>
         <strong>Front-End Proficiency:</strong> Expert in 
         <span style="color: #34495e;">HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS, Flutter, and Dart</span> 
@@ -75,10 +75,9 @@
     </ul>
   </div>
 
-  <br />
-  <div style="background: #f9f9f9; padding: 15px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin-top: 20px;">
-    <h3 style="color: #3498db; font-size: 22px; font-weight: bold;">🧑‍💼 Cloud & DevOps Specialist</h3>
-    <ul style="list-style-type: disc; margin-left: 20px;">
+  <div style="background: #f9f9f9; padding: 10px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 15px;">
+    <h3 style="color: #3498db; font-size: 20px; font-weight: bold;">🧑‍💼 Cloud & DevOps Specialist</h3>
+    <ul style="list-style-type: disc; margin-left: 15px; padding-left: 10px;">
       <li>
         <strong>Cloud Platforms:</strong> Hands-on experience with 
         <span style="color: #34495e;">AWS (Lambda, ECS, EC2, S3), Netlify, Vercel</span>, and serverless architectures.
@@ -94,10 +93,9 @@
     </ul>
   </div>
 
-  <br />
-  <div style="background: #f9f9f9; padding: 15px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin-top: 20px;">
-    <h3 style="color: #3498db; font-size: 22px; font-weight: bold;">🌟 Innovator & Problem Solver</h3>
-    <ul style="list-style-type: disc; margin-left: 20px;">
+  <div style="background: #f9f9f9; padding: 10px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 15px;">
+    <h3 style="color: #3498db; font-size: 20px; font-weight: bold;">🌟 Innovator & Problem Solver</h3>
+    <ul style="list-style-type: disc; margin-left: 15px; padding-left: 10px;">
       <li>
         <strong>Core Concepts:</strong> Deep understanding of 
         <span style="color: #34495e;">SDLC, Agile Methodology, OOP, DSA, API optimization</span>, and scalable software architecture.
@@ -113,10 +111,9 @@
     </ul>
   </div>
 
-  <br />
-  <div style="background: #f9f9f9; padding: 15px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin-top: 20px;">
-    <h3 style="color: #3498db; font-size: 22px; font-weight: bold;">💻 Passionate Data Science Enthusiast</h3>
-    <ul style="list-style-type: disc; margin-left: 20px;">
+  <div style="background: #f9f9f9; padding: 10px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 15px;">
+    <h3 style="color: #3498db; font-size: 20px; font-weight: bold;">💻 Passionate Data Science Enthusiast</h3>
+    <ul style="list-style-type: disc; margin-left: 15px; padding-left: 10px;">
       <li>
         <strong>Data Handling:</strong> Skilled in data analysis, processing, and visualization, leveraging tools to drive insights.
       </li>
@@ -126,6 +123,7 @@
     </ul>
   </div>
 </p>
+
 
 
 
