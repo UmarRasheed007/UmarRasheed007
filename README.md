@@ -10,43 +10,7 @@
 <!-- about me -->
 <p align="center">
   Hi, I'm Umar Rasheed, a passionate Software Engineer 💻, dedicated Learner 📚, and gaming enthusiast 🎮 from Pakistan 🇵🇰. 
-</p>
-  <!-- <p align="left" style="text-align: justify;">
-  <br />
-  <br />
-  <h5>🎓 Pursuing MSc in Data Science | University of Hertfordshire, UK.</h5>
-  <br />
-  <h5>💻 Software Engineering Graduate | Air University.</h5>
-  <br />
-  <div>
-  <h3>🚀 Full-Stack Developer</h3>
-  <ul>
-    <li>
-      <strong>Front-End Proficiency:</strong> Expert in 
-      <span>HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS, Flutter, and Dart</span> 
-      for crafting responsive and user-friendly interfaces.
-    </li>
-    <li>
-      <strong>Back-End Expertise:</strong> Skilled in 
-      <span>Node.js, Express.js, Nest.js, C++, Java, C#, Rust</span>, and RESTful APIs, 
-      ensuring robust and scalable server-side solutions.
-    </li>
-    <li>
-      <strong>Database Management:</strong> Mastery of 
-      <span>MongoDB, MySQL, PostgreSQL</span>, optimizing data handling for performance and reliability.
-    </li>
-  </ul>
-</div>
-
-  <br />
-  🧑‍💼 Currently, I’m working as a Nest.js developer and continuously enhancing my skills in cutting-edge technologies.
-  <br />
-  🚀 I'm driven by a commitment to innovation and creating impactful software solutions.
-  <br />
-</p> -->
-
-<p align="left" style="text-align: justify; font-family: Arial, sans-serif; line-height: 1.4;">
-  <div style="background: #eef2f3; padding: 10px; border-radius: 8px; margin-bottom: 15px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <div style="background: #eef2f3; padding: 10px; border-radius: 8px; margin-bottom: 50px; margin-top:15px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
     <h4 style="color: #2c3e50; font-size: 20px; font-weight: bold; margin: 5px 0;">
       🎓 Pursuing MSc in Data Science | University of Hertfordshire, UK
     </h4>
@@ -55,7 +19,8 @@
     </h4>
   </div>
 
-  <div style="background: #f9f9f9; padding: 10px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 15px;">
+<p align="left" style="text-align: justify; font-family: Arial, sans-serif; line-height: 1.4;">
+  <div style="background: #f9f9f9; padding: 10px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 20px;">
     <h3 style="color: #3498db; font-size: 20px; font-weight: bold;">🚀 Full-Stack Developer</h3>
     <ul style="list-style-type: disc; margin-left: 15px; padding-left: 10px;">
       <li>
@@ -75,7 +40,7 @@
     </ul>
   </div>
 
-  <div style="background: #f9f9f9; padding: 10px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 15px;">
+  <div style="background: #f9f9f9; padding: 10px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 20px;">
     <h3 style="color: #3498db; font-size: 20px; font-weight: bold;">🧑‍💼 Cloud & DevOps Specialist</h3>
     <ul style="list-style-type: disc; margin-left: 15px; padding-left: 10px;">
       <li>
@@ -93,7 +58,7 @@
     </ul>
   </div>
 
-  <div style="background: #f9f9f9; padding: 10px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 15px;">
+  <div style="background: #f9f9f9; padding: 10px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 20px;">
     <h3 style="color: #3498db; font-size: 20px; font-weight: bold;">🌟 Innovator & Problem Solver</h3>
     <ul style="list-style-type: disc; margin-left: 15px; padding-left: 10px;">
       <li>
@@ -111,7 +76,7 @@
     </ul>
   </div>
 
-  <div style="background: #f9f9f9; padding: 10px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 15px;">
+  <div style="background: #f9f9f9; padding: 10px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 20px;">
     <h3 style="color: #3498db; font-size: 20px; font-weight: bold;">💻 Passionate Data Science Enthusiast</h3>
     <ul style="list-style-type: disc; margin-left: 15px; padding-left: 10px;">
       <li>
