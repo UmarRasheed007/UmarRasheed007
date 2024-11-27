@@ -13,12 +13,12 @@
   <p align="left" style="text-align: justify;">
   <br />
   <br />
-  <h1>🎓 Pursuing MSc in Data Science | University of Hertfordshire, UK.</h1>
+  <h3>🎓 Pursuing MSc in Data Science | University of Hertfordshire, UK.</h3>
   <br />
-  <h1>💻 Software Engineering Graduate | Air University.</h1>
+  <h3>💻 Software Engineering Graduate | Air University.</h3>
   <br />
   <div>
-  <h2>🚀 Full-Stack Developer</h2>
+  <h3>🚀 Full-Stack Developer</h3>
   <ul>
     <li>
       <strong>Front-End Proficiency:</strong> Expert in 
