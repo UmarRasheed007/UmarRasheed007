@@ -47,12 +47,14 @@
 
 <p align="left" style="text-align: justify; font-family: Arial, sans-serif; line-height: 1.6;">
   <br />
-  <h5 style="color: #2c3e50; font-size: 18px; font-weight: bold;">
-    🎓 Pursuing MSc in Data Science | University of Hertfordshire, UK.
-  </h5>
-  <h5 style="color: #2c3e50; font-size: 18px; font-weight: bold;">
-    💻 Software Engineering Graduate | Air University.
-  </h5>
+  <div style="background: #eef2f3; padding: 10px; border-radius: 8px; margin-bottom: 15px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <h4 style="color: #2c3e50; font-size: 20px; font-weight: bold; margin: 5px 0;">
+      🎓 Pursuing MSc in Data Science | University of Hertfordshire, UK
+    </h4>
+    <h4 style="color: #2c3e50; font-size: 20px; font-weight: bold; margin: 5px 0;">
+      💻 Software Engineering Graduate | Air University
+    </h4>
+  </div>
   <br />
   
   <div style="background: #f9f9f9; padding: 15px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
